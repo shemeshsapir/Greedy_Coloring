@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\fastl\desktop\computer science\תואר מדעי המחשב - סיכומי שיעורים\שנה ב - hit\תורת הגרפים\מטלה 2\project1\project1\source.c(67): warning C4101: 'tempL': unreferenced local variable
+c:\users\fastl\desktop\computer science\תואר מדעי המחשב - סיכומי שיעורים\שנה ב - hit\תורת הגרפים\מטלה 2\project1\project1\source.c(67): warning C4101: 'tempR': unreferenced local variable
+  Project1.vcxproj -> C:\Users\fastl\Desktop\Computer science\תואר מדעי המחשב - סיכומי שיעורים\שנה ב - HIT\תורת הגרפים\מטלה 2\Project1\Debug\Project1.exe
